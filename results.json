@@ -1,0 +1,306 @@
+{
+  "username": "TaoTheReaper",
+  "timestamp": "2026-04-29T18:00:37.274095+00:00",
+  "results": [
+    {
+      "platform": "GitHub",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "GitLab",
+      "url": "https://gitlab.com/TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "Twitter/X",
+      "url": null,
+      "status": "error",
+      "found": null
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/TaoTheReaper/",
+      "status": "ok",
+      "found": true
+    },
+    {
+      "platform": "TikTok",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/TaoTheReaper",
+      "status": "ok",
+      "found": true
+    },
+    {
+      "platform": "YouTube",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Twitch",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Steam",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Pinterest",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "SoundCloud",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Spotify",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Medium",
+      "url": "https://medium.com/@TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "Dev.to",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Hashnode",
+      "url": "https://hashnode.com/@TaoTheReaper",
+      "status": "ok",
+      "found": true
+    },
+    {
+      "platform": "HackerNews",
+      "url": "https://news.ycombinator.com/user?id=TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "Keybase",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "HackTheBox",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "TryHackMe",
+      "url": "https://tryhackme.com/p/TaoTheReaper",
+      "status": "ok",
+      "found": true
+    },
+    {
+      "platform": "Replit",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Pastebin",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Gravatar",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Flickr",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Vimeo",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Dailymotion",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Behance",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Dribbble",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Fiverr",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "ProductHunt",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Codepen",
+      "url": "https://codepen.io/TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "JSFiddle",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Npm",
+      "url": "https://www.npmjs.com/~TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "PyPI",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "HuggingFace",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "DockerHub",
+      "url": "https://hub.docker.com/u/TaoTheReaper",
+      "status": "ok",
+      "found": true
+    },
+    {
+      "platform": "Kaggle",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Leetcode",
+      "url": "https://leetcode.com/TaoTheReaper/",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "HackerEarth",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Codeforces",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Duolingo",
+      "url": "https://www.duolingo.com/profile/TaoTheReaper",
+      "status": "ok",
+      "found": true
+    },
+    {
+      "platform": "Goodreads",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "LastFm",
+      "url": "https://www.last.fm/user/TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "Chess.com",
+      "url": "https://www.chess.com/member/TaoTheReaper",
+      "status": "ok",
+      "found": true
+    },
+    {
+      "platform": "Lichess",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Strava",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Linktree",
+      "url": "https://linktr.ee/TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "About.me",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Letterboxd",
+      "url": null,
+      "status": "ok",
+      "found": false
+    },
+    {
+      "platform": "Trakt.tv",
+      "url": "https://trakt.tv/users/TaoTheReaper",
+      "status": "unknown",
+      "found": null
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/TaoTheReaper",
+      "status": "ok",
+      "found": true
+    }
+  ]
+}
